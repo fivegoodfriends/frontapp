@@ -1,3 +1,12 @@
+This is a fork maintained by the Engineering Team at Five Good Friends. It adds support for:
+
+- [Add support for custom user agents](https://github.com/phusion/frontapp/pull/6)
+- [Add custom error subclasses so that they can be distinguished from other errors](https://github.com/phusion/frontapp/pull/5)
+
+The goal is to get these patches merged upstream.
+
+---
+
 # Frontapp
 
 Ruby client to work with Frontapp API (https://dev.frontapp.com)
