@@ -1,3 +1,7 @@
+These patches have been merged upstream and are available in 0.0.5 of the gem! :tada:
+
+---
+
 This is a fork maintained by the Engineering Team at Five Good Friends. It adds support for:
 
 - [Add support for custom user agents](https://github.com/phusion/frontapp/pull/6)
